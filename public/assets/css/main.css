@@ -1,0 +1,40 @@
+h2 , h4 ,li .fab {
+
+    color: #6597b2;
+}
+
+.card {
+    margin-left: -2px;
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    margin-left: 2px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 29px 0 rgb(68 88 144 / 20%);
+}
+
+.effect {
+    color: rgb(80, 77, 77);
+    text-decoration: none;
+}
+
+.card:hover {
+    background-color: #6597b2;
+    color: black !important;
+}
+footer{
+    background-color: #6597b2;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    width: 10%;
+    margin-top: -10rem;
+    border-radius: 60%;
+}
